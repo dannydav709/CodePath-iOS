@@ -17,6 +17,10 @@ The following functionality is complete:
 
 Learned Swift along the way!
 
+## Video Tutorial
+
+
+
 ## License
 
     Copyright 2021 Daniel Davidov
