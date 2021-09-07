@@ -19,7 +19,7 @@ Learned Swift along the way!
 
 ## Video Tutorial
 
-
+![alt-text](https://github.com/dannydav709/CodePath-iOS/blob/main/TipCalculatorGif.gif)
 
 ## License
 
